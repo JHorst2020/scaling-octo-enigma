@@ -148,6 +148,7 @@ function ResponsiveAppBar() {
               letterSpacing: '.3rem',
               color: 'inherit',
               textDecoration: 'none',
+              cursor:'pointer'
             }}
           >
             Zahi Rashid
