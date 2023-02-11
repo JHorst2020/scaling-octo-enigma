@@ -139,7 +139,7 @@ function ResponsiveAppBar() {
             variant="h5"
             noWrap
             component="a"
-            href=""
+            onClick={()=>handleNavigateToPage("")}
             sx={{
               display: { xs: 'flex', md: 'none' },
               flexGrow: 1,
